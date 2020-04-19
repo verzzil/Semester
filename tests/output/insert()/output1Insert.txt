@@ -1,0 +1,2 @@
+CIRCLE [4, 8, 4, 0] RED
+CIRCLE [0, 0, 1, 0] BLACK
